@@ -1,0 +1,15 @@
+{
+  "name": "marketplace",
+  "version": "1.0.0",
+  "description": "> This app allows users to buy and sell products on a marketplace.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rayton Lin",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
